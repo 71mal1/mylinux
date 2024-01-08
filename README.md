@@ -12,7 +12,7 @@
 ## tmux
 ~/.tmux.conf
 
-![Appearance](./picture/tmux.conf)
+![Appearance](./picture/tmux.pnc)
 
 
 
