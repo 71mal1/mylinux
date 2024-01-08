@@ -11,6 +11,7 @@ yay -S ttf-menlo-powerline-git
 
 ![Appearance](./picture/omz.png)
 
+chsh -s /bin/zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 
