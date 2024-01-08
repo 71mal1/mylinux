@@ -4,6 +4,8 @@
 
 ![Appearance](./picture/alacritty.png)
 
+yay -S ttf-menlo-powerline-git
+
 ## oh my zsh
 ~/.zshrc
 
