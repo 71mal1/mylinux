@@ -1,13 +1,19 @@
 
 ##  alacritty
 ~/.config/alacritty
-![Image description](./picture/alacritty.png)
+
+![Appearance](./picture/alacritty.png)
 
 ## oh my zsh
 ~/.zshrc
-![[omz.png]]
+
+![Appearance](./picture/omz.png)
+
 ## tmux
-![[tmux.png]]
+~/.tmux.conf
+
+![Appearance](./picture/tmux.conf)
+
 
 
 
