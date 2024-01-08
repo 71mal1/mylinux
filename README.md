@@ -21,6 +21,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ![Appearance](./picture/tmux.png)
 
+tmux source-file ~/.tmux.conf 
 
 
 
