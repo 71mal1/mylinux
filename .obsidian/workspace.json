@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "5eda3071a4988559",
+    "type": "split",
+    "children": [
+      {
+        "id": "151baa707a4900d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a145e857c5b1160",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7aca4f719213df52",
+    "type": "split",
+    "children": [
+      {
+        "id": "55232d2c63013ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e81ccbed85ef27f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2124c3abdeb38e9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21ba6872b58c1c7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9c133af1ee553d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c97c69f090299e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebc85ae972251dee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "148b8deac537a323",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52d3c8ebf18111ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e19ded4b64a3a6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "2a145e857c5b1160",
+  "lastOpenFiles": [
+    "README.md",
+    "alacritty/alacritty.toml",
+    "picture/tmux.png",
+    "picture/omz.png",
+    "picture/alacritty.png",
+    "tmux",
+    "oh-my-zsh",
+    "alacritty/themes",
+    "alacritty",
+    "Без названия",
+    "picture",
+    "alacritty/themes/themes",
+    "alacritty/themes/images",
+    "dotfiles/alacritty/themes/images/zenburn.png",
+    "dotfiles/alacritty/themes/images/xterm.png",
+    "dotfiles/alacritty/themes/images/wombat.png",
+    "dotfiles/alacritty/themes/images/ubuntu.png",
+    "dotfiles/alacritty/themes/images/tomorrow_night_bright.png",
+    "dotfiles/alacritty/themes/images/tomorrow_night.png",
+    "dotfiles/alacritty/themes/images/tokyo-night.png",
+    "dotfiles/alacritty/themes/themes/zenburn.toml",
+    "dotfiles/alacritty/themes/README.md",
+    "dotfiles/README.md",
+    "alacritty/themes/README.md",
+    "Без названия.md",
+    "Welcome.md"
+  ]
+}
