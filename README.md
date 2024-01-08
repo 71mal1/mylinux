@@ -1,7 +1,7 @@
 
 ##  alacritty
 ~/.config/alacritty
-![[alacritty.png]]
+![[picture/alacritty.png]]
 ## oh my zsh
 ~/.zshrc
 ![[omz.png]]
