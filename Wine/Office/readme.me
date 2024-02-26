@@ -1,0 +1,27 @@
+https://wimpysworld.com/posts/microsoft-office-2010-on-arch-linux-and-ubuntu/
+
+sudo pacman -S --needed icoutils libwbclient libxslt lib32-mpg123 p11-kit lib32-p11-kit samba wine winetricks wine-mono wine_gecko
+yay -S ttf-ms-fonts
+
+sudo pacman -S lib32-libxslt # его нет lib32-libwbclient 
+
+export WINEPREFIX="${HOME}/.msoffice2010"
+export WINEARCH="win32"
+winecfg
+
+- Click the Libraries tab, select riched20 and click Add. The default entry should read riched20 (native, builtin). Click Apply, then click OK.
+
+winetricks msxml6 corefonts
+
+wine install.exe
+
+post-install: 
+key: VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB
+
+https://mega.nz/file/Ia0h0DaR#PY2hOK1RfgJndhsF0OGh3dBGIa76Dqv6PTYN3ugoakE
+
+Remove
+
+rm -rfv ${HOME}/.msoffice2010/
+rm -rfv ~/.local/share/applications/wine-extension-*
+rm -rfv ~/.local/share/applications/wine/Programs/Microsoft\ Office/
