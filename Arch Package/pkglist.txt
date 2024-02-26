@@ -18,6 +18,7 @@ dotnet-sdk-6.0
 efibootmgr
 elisa
 exo
+fastfetch
 filelight
 firefox
 firejail
@@ -34,6 +35,7 @@ hashcat
 hip-runtime-amd
 hplip
 htop
+hyperfine
 icoutils
 kdenlive
 lib32-libxslt
@@ -50,7 +52,6 @@ miopen-hip
 mono
 mousepad
 nano
-neofetch
 network-manager-applet
 networkmanager
 nodejs
