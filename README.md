@@ -11,6 +11,7 @@ yay -S ttf-menlo-powerline-git
 ## oh my zsh
 ~/.zshrc
 
+
 ![Appearance](./picture/omz.png)
 
 sudo pacman -S zsh
@@ -21,6 +22,13 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
+zsh
+
+copy .zshrc -> ~/
+
+theme zsh
+
+themes/* -> /home/71mal1/.oh-my-zsh/themes/
 
 ## tmux
 ~/.tmux.conf
