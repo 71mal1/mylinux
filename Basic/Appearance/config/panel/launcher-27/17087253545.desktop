@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+TryExec=alacritty
+Exec=exo-open --launch TerminalEmulator
+Icon=utilities-terminal
+Terminal=false
+Categories=System;TerminalEmulator;
+Name=Terminal Emulator
+GenericName=Terminal
+Comment=Use the command line
+StartupNotify=true
+StartupWMClass=Alacritty
+Actions=New;
+X-Desktop-File-Install-Version=0.27
+X-XFCE-Source=file:///usr/share/applications/Alacritty.desktop
+Path=
+
+[Desktop Action New]
+Name=New Terminal
+Exec=alacritty

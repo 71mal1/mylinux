@@ -1,0 +1,267 @@
+2
+Value is an array with 1 items:
+
+1
+false
+0
+true
+0
+100.000000
+true
+1
+Value is an array with 22 items:
+
+23
+3
+1
+24
+25
+26
+27
+29
+4
+30
+2
+5
+31
+15
+6
+8
+10
+12
+11
+13
+14
+7
+p=6;x=0;y=0
+true
+34
+true
+false
+1.11.0
+showdesktop
+notification-plugin
+separator
+0
+clock
+3
+Cantarell 11
+separator
+1
+actions
+0
+Value is an array with 12 items:
+
++lock-screen
+-switch-user
+-separator
+-suspend
+-hibernate
+-hybrid-sleep
+-separator
+-shutdown
+-restart
+-separator
+-logout
++logout-dialog
+netload
+tasklist
+false
+1
+true
+false
+1
+false
+false
+false
+true
+1
+whiskermenu
+archlinux-logo
+true
+Value is an array with 29 items:
+
+obsidian.desktop
+bitwarden.desktop
+yandex-browser.desktop
+org.mozilla.Thunderbird.desktop
+org.telegram.desktop.desktop
+discord.desktop
+vk-messenger.desktop
+teams.desktop
+Zoom.desktop
+code.desktop
+virtualbox.desktop
+libreoffice-startcenter.desktop
+wine-Programs-Microsoft Office-Microsoft Word 2010.desktop
+wine-Programs-Microsoft Office-Microsoft Excel 2010.desktop
+calibre-gui.desktop
+org.kde.okular.desktop
+org.xfce.ristretto.desktop
+vlc.desktop
+org.kde.elisa.desktop
+photoshop.desktop
+com.blackmagicdesign.resolve.desktop
+org.kde.kdenlive.desktop
+wine-Programs-Ableton Live 11 Suite.desktop
+balena-etcher.desktop
+io.github.lact-linux.desktop
+zenmonitor-root.desktop
+com.obsproject.Studio.desktop
+ryzen-controller.desktop
+fr.handbrake.ghb.desktop
+true
+false
+true
+950
+570
+true
+true
+Value is an array with 10 items:
+
+xfce-ui-settings.desktop
+Alacritty.desktop
+xfce-settings-manager.desktop
+xfce4-settings-editor.desktop
+obsidian.desktop
+wine-Programs-Microsoft Office-Microsoft Excel 2010.desktop
+wine-Programs-Microsoft Office-Microsoft Word 2010.desktop
+wine-Programs-Ableton Live 11 Suite.desktop
+wine-Programs-Microsoft Office-Microsoft PowerPoint 2010.desktop
+bitwarden.desktop
+false
+2
+directorymenu
+/home/71mal1
+system-file-manager
+launcher
+Value is an array with 1 items:
+
+17087253252.desktop
+launcher
+Value is an array with 1 items:
+
+17087253373.desktop
+launcher
+Value is an array with 1 items:
+
+17087253545.desktop
+separator
+separator
+false
+1
+separator
+cpugraph
+Value is an array with 4 items:
+
+1.000000
+1.000000
+1.000000
+0.000000
+1
+Value is an array with 4 items:
+
+0.000000
+1.000000
+0.878431
+1.000000
+0
+1
+
+Value is an array with 4 items:
+
+0.152941
+0.466667
+1.000000
+1.000000
+Value is an array with 4 items:
+
+0.000000
+1.000000
+0.878431
+1.000000
+Value is an array with 4 items:
+
+0.000000
+0.000000
+1.000000
+1.000000
+Value is an array with 4 items:
+
+0.200000
+0.900000
+0.400000
+1.000000
+Value is an array with 4 items:
+
+0.900000
+0.800000
+0.200000
+1.000000
+Value is an array with 4 items:
+
+0.900000
+0.100000
+0.100000
+1.000000
+Value is an array with 4 items:
+
+0.100000
+0.400000
+0.900000
+1.000000
+0
+1
+0
+1
+0
+1
+128
+0
+Value is an array with 4 items:
+
+0.900000
+0.000000
+0.000000
+1.000000
+0
+0
+0
+0
+0
+pager
+false
+1
+true
+false
+separator
+true
+0
+systray
+Value is an array with 7 items:
+
+TelegramDesktop
+vlc
+obs
+MEGAsync
+ryzen-controller1
+chrome_status_icon_1
+qBittorrent
+Value is an array with 5 items:
+
+networkmanager applet
+ethernet network connection “wired connection 1” active
+xfce4-power-manager
+notes
+clipman
+true
+xkb
+70
+true
+0
+false
+pulseaudio
+true
+firefox;vlc;Yandex Browser
+true
+true
