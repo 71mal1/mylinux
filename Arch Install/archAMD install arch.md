@@ -103,7 +103,7 @@ reflector --latest 20 --sort rate --protocol https --save /etc/pacman.d/mirrorli
 ```
 nano /etc/locale.gen
 ```
-Расскоментировать строчки:
+Раскоментировать строчки:
 ```
 en_US.UTF-8 UTF-8
 ```
