@@ -34,4 +34,4 @@ tmux source-file ~/.tmux.conf
 
 ![Appearance](./Wine/photoshopCC/photoshop.png)
 ![Appearance](./Wine/Ableton11/ableton.png)
-![Appearance](./Wine/Ableton11/office.png)
+![Appearance](./Wine/Office/office.png)
