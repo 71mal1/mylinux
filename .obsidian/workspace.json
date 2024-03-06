@@ -11,6 +11,24 @@
             "id": "2a145e857c5b1160",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archAMD install btrfs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "101408f30e3ba073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8b1bd5c6fad55e5",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
@@ -65,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f9c133af1ee553d1",
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "archAMD install btrfs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "archAMD install btrfs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,11 +135,13 @@
             }
           },
           {
-            "id": "5e19ded4b64a3a6a",
+            "id": "afb767d6d18171d3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "archAMD install btrfs.md"
+              }
             }
           }
         ]
@@ -130,16 +153,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "2a145e857c5b1160",
   "lastOpenFiles": [
+    "Arch Install/OLD archAMD install arch.md",
+    "Arch Install/archAMD install btrfs.md",
+    "Arch Install/archAMD install arch.md",
+    "archAMD install btrfs.md",
+    "Pasted image 20240307041515.png",
     "README.md",
     "alacritty/alacritty.toml",
     "picture/tmux.png",
@@ -159,7 +188,6 @@
     "dotfiles/alacritty/themes/images/ubuntu.png",
     "dotfiles/alacritty/themes/images/tomorrow_night_bright.png",
     "dotfiles/alacritty/themes/images/tomorrow_night.png",
-    "dotfiles/alacritty/themes/images/tokyo-night.png",
     "dotfiles/alacritty/themes/themes/zenburn.toml",
     "dotfiles/alacritty/themes/README.md",
     "dotfiles/README.md",
