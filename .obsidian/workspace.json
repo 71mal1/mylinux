@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archAMD install btrfs.md",
+                "file": "Arch Install/archAMD install btrfs.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f9c133af1ee553d1",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archAMD install btrfs.md",
+                "file": "Arch Install/archAMD install btrfs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archAMD install btrfs.md",
+                "file": "Arch Install/archAMD install btrfs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archAMD install btrfs.md"
+                "file": "Arch Install/archAMD install btrfs.md"
               }
             }
           }
@@ -165,9 +164,10 @@
   "active": "2a145e857c5b1160",
   "lastOpenFiles": [
     "Arch Install/OLD archAMD install arch.md",
+    "Arch Install/archNOTEBOOK install arch.md",
+    "archAMD install btrfs.md",
     "Arch Install/archAMD install btrfs.md",
     "Arch Install/archAMD install arch.md",
-    "archAMD install btrfs.md",
     "Pasted image 20240307041515.png",
     "README.md",
     "alacritty/alacritty.toml",

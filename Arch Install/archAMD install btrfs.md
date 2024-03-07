@@ -111,7 +111,7 @@ reflector --latest 20 --sort rate --protocol https --save /etc/pacman.d/mirrorli
 ```
 
 ```
-pacstrap -K /mnt base linux-zen linux-firmware amd-ucode nano git reflector linux-zen-headers base-devel sudo networkmanager grub efibootmgr sbctl xf86-video-amdgpu gnome gnome-extra gdm openssh noto-fonts-cjk usbutils btrfs-progs gnome-firmware
+pacstrap -K /mnt base linux-zen linux-firmware amd-ucode nano git reflector linux-zen-headers base-devel sudo networkmanager grub efibootmgr sbctl xf86-video-amdgpu gnome gnome-extra gdm openssh noto-fonts-cjk usbutils btrfs-progs gnome-firmware print-manager cups system-config-printer 
 ```
 
 ```
@@ -231,8 +231,13 @@ create  [hosts(5)](https://man.archlinux.org/man/hosts.5)
 ```
 
 - enable networkmanager (pacstrap)
-```
+```bash
 systemctl enable NetworkManager
+```
+
+- printer
+```bash
+systemctl enable cups && systemctl start cups
 ```
 --- 
 - Задание пароля root
