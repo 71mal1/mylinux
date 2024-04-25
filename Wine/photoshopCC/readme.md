@@ -6,7 +6,7 @@ https://mega.nz/file/1TUCzQSK#QX3NW_ZFv39t4N9kPQuv_3ZVt65_v6Kvn1VrU2OyGzQ
 add  PlayerDebugMode (1)
 
 
--- config change:
+-- config change (PhotoshopSetup.sh):
 ```
 function replacement() {
     local filename="replacement.tgz"
